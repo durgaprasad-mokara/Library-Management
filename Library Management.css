@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/dynamic-webapps/library-management-bg.png");
+    text-align: center;
+    padding: 45px;
+    height: 100vh;
+}
+
+.headding {
+    color: white;
+    font-family: "Roboto";
+}
+
+#searchInput {
+    width: 220px;
+    height: 35px;
+    border-radius: 5px;
+    border-color: orange;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#searchResults {
+    margin: 0px;
+    padding: 0px;
+}
